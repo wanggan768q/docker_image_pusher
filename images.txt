@@ -7,3 +7,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #以下是自定义镜像
 youshandefeiyang/allinone
+youshandefeiyang/av3a-assistant
+yuexuangu/allinone_format
+containrrr/watchtowe
