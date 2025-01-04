@@ -9,3 +9,4 @@ xhofe/alist:latest
 youshandefeiyang/allinone
 containrrr/watchtower
 herberthe0229/iptv-sources
+yuexuangu/allinone_format
