@@ -6,4 +6,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #以下是自定义镜像
---platform=linux/amd64 youshandefeiyang/allinone
+youshandefeiyang/allinone
+containrrr/watchtower
