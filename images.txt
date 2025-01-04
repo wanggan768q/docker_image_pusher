@@ -8,3 +8,4 @@ xhofe/alist:latest
 #以下是自定义镜像
 youshandefeiyang/allinone
 containrrr/watchtower
+herberthe0229/iptv-sources
