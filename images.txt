@@ -12,3 +12,4 @@ herberthe0229/iptv-sources
 yuexuangu/allinone_format
 idootop/mi-gpt
 dockurr/windows
+cloudflare/cloudflared
